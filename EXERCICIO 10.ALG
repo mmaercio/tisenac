@@ -1,19 +1,19 @@
 Algoritmo "exercicio10"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Ricardo Adriano Rocha
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Maércio Rogers
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : MaÃ©rcio Rogers
 // Data atual  : 30/06/2022
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
   matricula, horasTrab: inteiro
      valorHora, salario: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
 
-     escreva("Digite a matrícula do funcionário: ")
+     escreva("Digite a matrÃ­cula do funcionÃ¡rio: ")
      leia(matricula)
 
       escreva("Digite as horas trabalhadas: ")
@@ -28,9 +28,9 @@ Inicio
 
      salario <- horasTrab * valorHora
 
-     //saída na tela
+     //saÃ­da na tela
 
-     escreval("Para a matrícula: ", matricula, ", o salário é: R$ ", salario:5:2)
+     escreval("Para a matrÃ­cula: ", matricula, ", o salÃ¡rio Ã©: R$ ", salario:5:2)
 
 
 
